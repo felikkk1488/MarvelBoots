@@ -1,0 +1,4 @@
+C:\Users\693-23\Desktop\WindowsFormsApp-NetFramework4_8-EF6\MarvelBoots\WindowsFormsApp\obj\Debug\MarvelBoots.csproj.AssemblyReference.cache
+C:\Users\693-23\Desktop\WindowsFormsApp-NetFramework4_8-EF6\MarvelBoots\WindowsFormsApp\obj\Debug\MarvelBoots.Properties.Resources.resources
+C:\Users\693-23\Desktop\WindowsFormsApp-NetFramework4_8-EF6\MarvelBoots\WindowsFormsApp\obj\Debug\MarvelBoots.csproj.GenerateResource.cache
+C:\Users\693-23\Desktop\WindowsFormsApp-NetFramework4_8-EF6\MarvelBoots\WindowsFormsApp\obj\Debug\MarvelBoots.csproj.CoreCompileInputs.cache
